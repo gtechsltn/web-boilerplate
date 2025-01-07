@@ -1,3 +1,11 @@
+# Simple, fast and lightweight web boilerplate serving as my basis for developing webapps and websites
+
+https://github.com/vicegold/web-boilerplate
+
+https://github.com/codinglabs/web-boilerplate
+
+https://github.com/gtechsltn/web-boilerplate
+
 ![Ingredients of the web boilerplate](https://mzdr.github.io/web-boilerplate/ingredients.png)
 
 Simple, fast and lightweight web boilerplate serving as my basis for developing webapps and websites. By default you'll get the following features:
